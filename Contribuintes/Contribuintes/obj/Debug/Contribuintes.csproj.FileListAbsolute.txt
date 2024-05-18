@@ -1,0 +1,7 @@
+C:\temp\projetos\Contribuintes\Contribuintes\bin\Debug\Contribuintes.exe.config
+C:\temp\projetos\Contribuintes\Contribuintes\bin\Debug\Contribuintes.exe
+C:\temp\projetos\Contribuintes\Contribuintes\bin\Debug\Contribuintes.pdb
+C:\temp\projetos\Contribuintes\Contribuintes\obj\Debug\Contribuintes.csproj.AssemblyReference.cache
+C:\temp\projetos\Contribuintes\Contribuintes\obj\Debug\Contribuintes.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Contribuintes\Contribuintes\obj\Debug\Contribuintes.exe
+C:\temp\projetos\Contribuintes\Contribuintes\obj\Debug\Contribuintes.pdb
